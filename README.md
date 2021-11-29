@@ -1,2 +1,3 @@
-# intro-github-obolivar
-Curso de Introducción a Git y Github con Oscar Bolivar
+# Curso de Git y Github Colaborativo desde cero con Oscar Bolivar
+
+¡Bienvenidos al repositorio del curso!
