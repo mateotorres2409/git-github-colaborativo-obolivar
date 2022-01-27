@@ -5,7 +5,7 @@
   <a href="https://www.crehana.com/clases/v2/12536/detalle/">
     <img src="images/curso.png" alt="Logo" width="160" height="50">
   </a>
-  <a href="https://www.linkedin.com/in/pontefederico/">
+  <a href="https://www.linkedin.com/in/nicolas-aranguren-t/">
     <img src="images/teacher.png" alt="Logo" width="160" height="50">
   </a>
 </div>
