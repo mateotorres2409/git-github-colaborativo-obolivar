@@ -1,4 +1,6 @@
 <config>
 	<name>mateo</name>
 	<age>30</age>
+        <cityName>Manizales</cityName>
+        <countryName></countryName>
 </config>
