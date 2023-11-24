@@ -1,6 +1,7 @@
 <config>
 	<name>mateo</name>
 	<age>30</age>
-        <cityName>Manizales</cityName>
-        <countryName></countryName>
+  <city>Manizales</city>
+  <country>Colombia</country>
+	<address>cl42811</address>
 </config>
